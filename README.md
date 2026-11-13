@@ -1,17 +1,18 @@
-# magic_8_ball
+# Magic 8 Ball
 
-A new Flutter project.
+A Flutter application that simulates a Magic 8 Ball.
+
+## About
+
+Ask a question and let the Magic 8 Ball provide an answer.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+To run the application:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install Flutter.
+2. Open the project in Android Studio.
+3. Run flutter pub get.
+4. Launch the application.
